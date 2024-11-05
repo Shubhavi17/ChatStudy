@@ -109,6 +109,8 @@ while True:
 
 ## Result:
 
+![Screenshot 2024-11-05 103841](https://github.com/user-attachments/assets/15e8713c-956e-4d65-8613-572b65117aa4)
+
 
 Thus the study on Client Server Chat Applications has been performed
 
